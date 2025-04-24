@@ -4,6 +4,9 @@
 🧠 Passionate about problem-solving, clean scripting, and learning by doing.  
 🌐 Check out my portfolio: [shah-sagar.netlify.app](https://shah-sagar.netlify.app)  
 
+> 📌 **Note:** This is my secondary GitHub account.  
+> My main profile is 👉 [saga-r-code](https://github.com/saga-r-code)
+
 ## 🌐 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sagar__1108)
 
