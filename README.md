@@ -1,6 +1,6 @@
 # 💫 About Me:
 🚀 Exploring the depths of system-level programming and automation with **Go** and **Bash**.  
-🌱 Currently diving into **cybersecurity** and building useful, real-world tools through projects.  
+🌱 Currently diving into **Devops + cybersecurity** and building useful, real-world tools through projects.  
 🧠 Passionate about problem-solving, clean scripting, and learning by doing.  
 🌐 Check out my portfolio: [shah-sagar.netlify.app](https://shah-sagar.netlify.app)  
 
